@@ -3,7 +3,7 @@
 - Ordeação de vetores
 - Tempo de ordenação (crescente e decrescente)
 - Escalabilidade e threads
-  - Problema do Barbeiro
+  - Barbeiro Dorminhoco
   - Problema do Aeroporto
   - Jantar dos Filósofos
 - Recursividade
