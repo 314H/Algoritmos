@@ -9,3 +9,15 @@
 - Recursividade
   - Cálculo de Fatorial
   - Cálculo de Fibonacci
+- Data Science
+  -  Classificação com RNA
+  -  Classificação kNN
+  -  Clusterização
+  -  Regressãocom kNN
+- Manipulaçao de arquivos
+- Queries SQL
+  - Simples
+  - Equações
+  - Inner Join
+  - Outer Join
+  - Left Join
